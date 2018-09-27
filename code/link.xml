@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<module name="nav">
+		<hcode>
+			<html>
+				<a><c></c></a><b></b>
+			</html>
+		</hcode>
+		<ccode>
+			123456
+		</ccode>
+		<jcode>
+			1234567
+		</jcode>
+	</module>
+</xml>
